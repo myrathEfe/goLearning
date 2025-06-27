@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "youtube_student_api",
+            "username": "postgres",
+            "password": "postgres",
+            "database": "youtube_student_api"
+        }
+    ]
+}
